@@ -1,5 +1,5 @@
 # CIBL
-This repository corresponds to the jupyter scripts of the CIBL-utterance classification project done with the CIAE and our finnish associates from the University of Jyväskylä. The description of each script follows:
+This repository corresponds to the jupyter scripts of the CIBL-utterance classification project done with the Center for Advanced Research in Education, Institute of Education (CIAE) of Chile and our finnish associates from the University of Jyväskylä. The description of each script follows:
  
 1. Data Statiscis: basic statistics of the data-base concerning the utterances distribution and word frequency.
 2. Word Embedding Models: implementation of the word embedding models.
